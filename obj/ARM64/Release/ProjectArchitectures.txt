@@ -1,0 +1,1 @@
+C:\Users\meshm\source\repos\App18\App18\App18.csproj;arm64

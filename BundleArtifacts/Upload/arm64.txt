@@ -1,0 +1,6 @@
+MainPackage=C:\Users\meshm\source\repos\App18\App18\bin\ARM64\Release\Upload\App18_2.2.0.0_ARM64.msix
+SymbolPackage=C:\Users\meshm\source\repos\App18\App18\bin\ARM64\Release\Upload\App18_2.2.0.0\App18_2.2.0.0_ARM64.appxsym
+ResourcePack=C:\Users\meshm\source\repos\App18\App18\bin\ARM64\Release\Upload\App18_2.2.0.0_scale-100.msix
+ResourcePack=C:\Users\meshm\source\repos\App18\App18\bin\ARM64\Release\Upload\App18_2.2.0.0_scale-125.msix
+ResourcePack=C:\Users\meshm\source\repos\App18\App18\bin\ARM64\Release\Upload\App18_2.2.0.0_scale-150.msix
+ResourcePack=C:\Users\meshm\source\repos\App18\App18\bin\ARM64\Release\Upload\App18_2.2.0.0_scale-400.msix
