@@ -8,8 +8,8 @@
     <TargetOsDescription>Windows 10.0</TargetOsDescription>
     <SolutionConfiguration>Debug|x86</SolutionConfiguration>
     <PackageArchitecture>x86</PackageArchitecture>
-    <PackageIdentityName>fab143c1-fbed-48a1-a61a-0de8d92f57b1</PackageIdentityName>
-    <PackageIdentityPublisher>CN=meshm</PackageIdentityPublisher>
+    <PackageIdentityName>e4789580-042b-402e-8d92-c8048cb3d187</PackageIdentityName>
+    <PackageIdentityPublisher>CN=434F3950-3A83-4454-A77B-78F5EAC6A536</PackageIdentityPublisher>
     <IntermediateOutputPath>C:\Users\meshm\source\repos\App18\App18\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
@@ -49,11 +49,17 @@
     <AppxPackagedFile Include="C:\Users\meshm\.nuget\packages\system.runtime.compilerservices.unsafe\6.0.0\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll">
       <PackagePath>System.Runtime.CompilerServices.Unsafe.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\meshm\.nuget\packages\uno.ui\5.1.87\lib\UAP\Uno.UI.Toolkit.dll">
+      <PackagePath>Uno.UI.Toolkit.dll</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\meshm\.nuget\packages\zxing.net\0.16.9\lib\uap10\zxing.dll">
       <PackagePath>zxing.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.22621.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\meshm\.nuget\packages\uno.ui\5.1.87\lib\UAP\Uno.UI.Toolkit\Uno.UI.Toolkit.xr.xml">
+      <PackagePath>Uno.UI.Toolkit\Uno.UI.Toolkit.xr.xml</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\meshm\source\repos\App18\App18\Assets\LargeTile.scale-100.png">
       <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>

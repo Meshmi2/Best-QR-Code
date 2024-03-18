@@ -7,7 +7,7 @@
 
     Per ulteriori informazioni sui file manifesto di pacchetto, vedere http://go.microsoft.com/fwlink/?LinkID=241727
   -->
-  <Identity Name="1407meshmi.BestQR-Code" Publisher="CN=434F3950-3A83-4454-A77B-78F5EAC6A536" Version="2.2.0.0" ProcessorArchitecture="arm" />
+  <Identity Name="1407meshmi.BestQR-Code" Publisher="CN=434F3950-3A83-4454-A77B-78F5EAC6A536" Version="2.2.3.0" ProcessorArchitecture="arm" />
   <mp:PhoneIdentity PhoneProductId="e4789580-042b-402e-8d92-c8048cb3d187" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>Best QR-Code</DisplayName>

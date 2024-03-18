@@ -754,3 +754,14 @@ C:\Users\meshm\source\repos\App18\App18\obj\x86\Release\ilc\intermediate\Resourc
 C:\Users\meshm\source\repos\App18\App18\obj\x86\Release\ilc\intermediate\Resources\System.Threading.Thread.index.txt
 C:\Users\meshm\source\repos\App18\App18\obj\x86\Release\ilc\intermediate\rhbindargs.App18.rsp
 C:\Users\meshm\source\repos\App18\App18\obj\x86\Release\ilc\intermediate\System.Private.App18.Generated.dll
+C:\Users\meshm\source\repos\App18\App18\bin\x86\Release\Uno.UI.Toolkit\Uno.UI.Toolkit.xr.xml
+C:\Users\meshm\source\repos\App18\App18\bin\x86\Release\Uno.UI.Toolkit.dll
+C:\Users\meshm\source\repos\App18\App18\bin\x86\Release\Uno.UI.Toolkit.pdb
+C:\Users\meshm\source\repos\App18\App18\obj\x86\Release\Uno.UI.Toolkit.pri.xml
+C:\Users\meshm\source\repos\App18\App18\bin\x86\Release\ilc\Uno.UI.Toolkit\Uno.UI.Toolkit.xr.xml
+C:\Users\meshm\source\repos\App18\App18\obj\x86\Release\ilc\in\Uno.UI.Toolkit\Uno.UI.Toolkit.xr.xml
+C:\Users\meshm\source\repos\App18\App18\obj\x86\Release\ilc\in\Uno.UI.Toolkit.pdb
+C:\Users\meshm\source\repos\App18\App18\obj\x86\Release\ilc\in\Uno.UI.Toolkit.dll
+C:\Users\meshm\source\repos\App18\App18\obj\x86\Release\ilc\intermediate\ILTransformed\Uno.UI.Toolkit.ildll
+C:\Users\meshm\source\repos\App18\App18\obj\x86\Release\ilc\intermediate\ILTransformed\Uno.UI.Toolkit.ilpdb
+C:\Users\meshm\source\repos\App18\App18\obj\x86\Release\ilc\intermediate\ILTransformed\Uno.UI.Toolkit.srclink

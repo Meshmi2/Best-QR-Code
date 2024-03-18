@@ -212,6 +212,9 @@
     <PackageReference Include="System.Drawing.Common">
       <Version>8.0.3</Version>
     </PackageReference>
+    <PackageReference Include="Uno.UI">
+      <Version>5.1.87</Version>
+    </PackageReference>
     <PackageReference Include="ZXing.Net">
       <Version>0.16.9</Version>
     </PackageReference>

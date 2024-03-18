@@ -3,4 +3,8 @@ EXPORTS
    FormatMessageW
 
 
+   FindFirstFileExW
+   FindClose
 
+   GetFileAttributesExW
+   SetThreadErrorMode

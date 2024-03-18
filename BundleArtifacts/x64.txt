@@ -1,2 +1,2 @@
-MainPackage=C:\Users\meshm\source\repos\App18\App18\bin\x64\Release\App18_2.2.0.0_x64.msix
-SymbolPackage=C:\Users\meshm\source\repos\App18\App18\obj\x64\Release\Symbols\App18_2.2.0.0_x64.appxsym
+MainPackage=C:\Users\meshm\source\repos\App18\App18\bin\x64\Release\App18_2.2.3.0_x64.msix
+SymbolPackage=C:\Users\meshm\source\repos\App18\App18\obj\x64\Release\Symbols\App18_2.2.3.0_x64.appxsym

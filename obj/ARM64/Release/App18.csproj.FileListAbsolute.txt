@@ -693,3 +693,14 @@ C:\Users\meshm\source\repos\App18\App18\obj\ARM64\Release\ilc\intermediate\Nativ
 C:\Users\meshm\source\repos\App18\App18\obj\ARM64\Release\ilc\intermediate\PreMergeILTransformed\App18.exe
 C:\Users\meshm\source\repos\App18\App18\obj\ARM64\Release\ilc\intermediate\PreMergeILTransformed\App18.pdb
 C:\Users\meshm\source\repos\App18\App18\obj\ARM64\Release\ilc\intermediate\System.Private.App18.Generated.dll
+C:\Users\meshm\source\repos\App18\App18\bin\ARM64\Release\Uno.UI.Toolkit\Uno.UI.Toolkit.xr.xml
+C:\Users\meshm\source\repos\App18\App18\bin\ARM64\Release\ilc\Uno.UI.Toolkit\Uno.UI.Toolkit.xr.xml
+C:\Users\meshm\source\repos\App18\App18\bin\ARM64\Release\Uno.UI.Toolkit.dll
+C:\Users\meshm\source\repos\App18\App18\bin\ARM64\Release\Uno.UI.Toolkit.pdb
+C:\Users\meshm\source\repos\App18\App18\obj\ARM64\Release\Uno.UI.Toolkit.pri.xml
+C:\Users\meshm\source\repos\App18\App18\obj\ARM64\Release\ilc\in\Uno.UI.Toolkit\Uno.UI.Toolkit.xr.xml
+C:\Users\meshm\source\repos\App18\App18\obj\ARM64\Release\ilc\in\Uno.UI.Toolkit.pdb
+C:\Users\meshm\source\repos\App18\App18\obj\ARM64\Release\ilc\in\Uno.UI.Toolkit.dll
+C:\Users\meshm\source\repos\App18\App18\obj\ARM64\Release\ilc\intermediate\ILTransformed\Uno.UI.Toolkit.ildll
+C:\Users\meshm\source\repos\App18\App18\obj\ARM64\Release\ilc\intermediate\ILTransformed\Uno.UI.Toolkit.ilpdb
+C:\Users\meshm\source\repos\App18\App18\obj\ARM64\Release\ilc\intermediate\ILTransformed\Uno.UI.Toolkit.srclink

@@ -99,5 +99,6 @@ System.Threading.Tasks.Extensions, Version=4.3.0.0, Culture=neutral, PublicKeyTo
 System.Threading.Thread, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
 System.Threading.ThreadPool, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
 System.Threading.Timer, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+Uno.UI.Toolkit, Version=255.255.255.255, Culture=neutral, PublicKeyToken=null
 WindowsBase, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
 zxing, Version=0.16.9.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60

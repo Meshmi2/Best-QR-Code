@@ -709,6 +709,19 @@
           }
         }
       },
+      "Uno.UI/5.1.87": {
+        "type": "package",
+        "compile": {
+          "lib/UAP/Uno.UI.Toolkit.dll": {
+            "related": ".pdb;.pri"
+          }
+        },
+        "runtime": {
+          "lib/UAP/Uno.UI.Toolkit.dll": {
+            "related": ".pdb;.pri"
+          }
+        }
+      },
       "ZXing.Net/0.16.9": {
         "type": "package",
         "compile": {
@@ -1607,6 +1620,19 @@
         "runtime": {
           "lib/netstandard2.0/System.Threading.Tasks.Extensions.dll": {
             "related": ".xml"
+          }
+        }
+      },
+      "Uno.UI/5.1.87": {
+        "type": "package",
+        "compile": {
+          "lib/UAP/Uno.UI.Toolkit.dll": {
+            "related": ".pdb;.pri"
+          }
+        },
+        "runtime": {
+          "lib/UAP/Uno.UI.Toolkit.dll": {
+            "related": ".pdb;.pri"
           }
         }
       },
@@ -2512,6 +2538,19 @@
           }
         }
       },
+      "Uno.UI/5.1.87": {
+        "type": "package",
+        "compile": {
+          "lib/UAP/Uno.UI.Toolkit.dll": {
+            "related": ".pdb;.pri"
+          }
+        },
+        "runtime": {
+          "lib/UAP/Uno.UI.Toolkit.dll": {
+            "related": ".pdb;.pri"
+          }
+        }
+      },
       "ZXing.Net/0.16.9": {
         "type": "package",
         "compile": {
@@ -3414,6 +3453,19 @@
           }
         }
       },
+      "Uno.UI/5.1.87": {
+        "type": "package",
+        "compile": {
+          "lib/UAP/Uno.UI.Toolkit.dll": {
+            "related": ".pdb;.pri"
+          }
+        },
+        "runtime": {
+          "lib/UAP/Uno.UI.Toolkit.dll": {
+            "related": ".pdb;.pri"
+          }
+        }
+      },
       "ZXing.Net/0.16.9": {
         "type": "package",
         "compile": {
@@ -4312,6 +4364,19 @@
         "runtime": {
           "lib/netstandard2.0/System.Threading.Tasks.Extensions.dll": {
             "related": ".xml"
+          }
+        }
+      },
+      "Uno.UI/5.1.87": {
+        "type": "package",
+        "compile": {
+          "lib/UAP/Uno.UI.Toolkit.dll": {
+            "related": ".pdb;.pri"
+          }
+        },
+        "runtime": {
+          "lib/UAP/Uno.UI.Toolkit.dll": {
+            "related": ".pdb;.pri"
           }
         }
       },
@@ -5217,6 +5282,19 @@
           }
         }
       },
+      "Uno.UI/5.1.87": {
+        "type": "package",
+        "compile": {
+          "lib/UAP/Uno.UI.Toolkit.dll": {
+            "related": ".pdb;.pri"
+          }
+        },
+        "runtime": {
+          "lib/UAP/Uno.UI.Toolkit.dll": {
+            "related": ".pdb;.pri"
+          }
+        }
+      },
       "ZXing.Net/0.16.9": {
         "type": "package",
         "compile": {
@@ -6115,6 +6193,19 @@
         "runtime": {
           "lib/netstandard2.0/System.Threading.Tasks.Extensions.dll": {
             "related": ".xml"
+          }
+        }
+      },
+      "Uno.UI/5.1.87": {
+        "type": "package",
+        "compile": {
+          "lib/UAP/Uno.UI.Toolkit.dll": {
+            "related": ".pdb;.pri"
+          }
+        },
+        "runtime": {
+          "lib/UAP/Uno.UI.Toolkit.dll": {
+            "related": ".pdb;.pri"
           }
         }
       },
@@ -7017,6 +7108,19 @@
         "runtime": {
           "lib/netstandard2.0/System.Threading.Tasks.Extensions.dll": {
             "related": ".xml"
+          }
+        }
+      },
+      "Uno.UI/5.1.87": {
+        "type": "package",
+        "compile": {
+          "lib/UAP/Uno.UI.Toolkit.dll": {
+            "related": ".pdb;.pri"
+          }
+        },
+        "runtime": {
+          "lib/UAP/Uno.UI.Toolkit.dll": {
+            "related": ".pdb;.pri"
           }
         }
       },
@@ -11820,6 +11924,397 @@
         "version.txt"
       ]
     },
+    "Uno.UI/5.1.87": {
+      "sha512": "D/ZCP9ByoRa/DyxiarZsBkShpzDlwruECo8cakRRhgm1xgIbBj3p/fZbvpQrHwzcYFtvkUP22g/sFVUVHjvNig==",
+      "type": "package",
+      "path": "uno.ui/5.1.87",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "analyzers/dotnet/cs/Microsoft.ApplicationInsights.dll",
+        "analyzers/dotnet/cs/Microsoft.DotNet.PlatformAbstractions.dll",
+        "analyzers/dotnet/cs/System.Diagnostics.DiagnosticSource.dll",
+        "analyzers/dotnet/cs/Uno.Analyzers.dll",
+        "analyzers/dotnet/cs/Uno.Analyzers.pdb",
+        "analyzers/dotnet/cs/Uno.UI.SourceGenerators.dll",
+        "analyzers/dotnet/cs/Uno.UI.SourceGenerators.pdb",
+        "analyzers/dotnet/cs/Uno.Xaml.dll",
+        "analyzers/dotnet/cs/Uno.Xaml.pdb",
+        "buildTransitive/Uno.UI.SourceGenerators.props",
+        "buildTransitive/Uno.UI.Tasks.targets",
+        "buildTransitive/Uno.UI.Tasks/Mono.Cecil.Mdb.dll",
+        "buildTransitive/Uno.UI.Tasks/Mono.Cecil.Pdb.dll",
+        "buildTransitive/Uno.UI.Tasks/Mono.Cecil.Rocks.dll",
+        "buildTransitive/Uno.UI.Tasks/Mono.Cecil.dll",
+        "buildTransitive/Uno.UI.Tasks/Uno.UI.Tasks.v0.dll",
+        "buildTransitive/Uno.UI.Tasks/Uno.UI.Tasks.v0.pdb",
+        "buildTransitive/Uno.UI.Tasks/Uno.UI.Tasks.vac8a3c348567c9bd3ef20cffb093ccd2e1395625.dll",
+        "buildTransitive/Uno.UI.Tasks/Uno.UI.Tasks.vac8a3c348567c9bd3ef20cffb093ccd2e1395625.pdb",
+        "buildTransitive/net7.0-android30.0/Uno.UI.props",
+        "buildTransitive/net7.0-android30.0/Uno.UI.targets",
+        "buildTransitive/net7.0-ios/Uno.UI.props",
+        "buildTransitive/net7.0-ios/Uno.UI.targets",
+        "buildTransitive/net7.0-maccatalyst/Uno.UI.props",
+        "buildTransitive/net7.0-maccatalyst/Uno.UI.targets",
+        "buildTransitive/net7.0-macos/Uno.UI.props",
+        "buildTransitive/net7.0-macos/Uno.UI.targets",
+        "buildTransitive/net7.0-windows/Uno.UI.props",
+        "buildTransitive/net7.0-windows/Uno.UI.targets",
+        "buildTransitive/net7.0/Uno.UI.props",
+        "buildTransitive/net7.0/Uno.UI.targets",
+        "buildTransitive/net8.0-android30.0/Uno.UI.props",
+        "buildTransitive/net8.0-android30.0/Uno.UI.targets",
+        "buildTransitive/net8.0-ios/Uno.UI.props",
+        "buildTransitive/net8.0-ios/Uno.UI.targets",
+        "buildTransitive/net8.0-maccatalyst/Uno.UI.props",
+        "buildTransitive/net8.0-maccatalyst/Uno.UI.targets",
+        "buildTransitive/net8.0-macos/Uno.UI.props",
+        "buildTransitive/net8.0-macos/Uno.UI.targets",
+        "buildTransitive/uap10.0.16299/Uno.UI.targets",
+        "buildTransitive/uap10.0.16299/uno.winui.runtime-replace.targets",
+        "buildTransitive/uap10.0.17763/uno.winui.runtime-replace.targets",
+        "buildTransitive/uap10.0.17763/uno.winui.targets",
+        "buildTransitive/uap10.0.19041/Uno.UI.targets",
+        "buildTransitive/uap10.0.19041/uno.winui.runtime-replace.targets",
+        "buildTransitive/uno.ui.tasks.assets.targets",
+        "buildTransitive/uno.winui.common.props",
+        "buildTransitive/uno.winui.common.targets",
+        "buildTransitive/uno.winui.cross-runtime.targets",
+        "buildTransitive/uno.winui.runtime-replace.targets",
+        "buildTransitive/uno.winui.single-project.targets",
+        "buildTransitive/uno.winui.winappsdk.targets",
+        "lib/UAP/Uno.UI.Toolkit.dll",
+        "lib/UAP/Uno.UI.Toolkit.pdb",
+        "lib/UAP/Uno.UI.Toolkit.pri",
+        "lib/UAP/Uno.UI.Toolkit/Themes/Generic.xaml",
+        "lib/UAP/Uno.UI.Toolkit/Uno.UI.Toolkit.xr.xml",
+        "lib/net7.0-android30.0/Uno.Foundation.Logging.dll",
+        "lib/net7.0-android30.0/Uno.Foundation.Logging.pdb",
+        "lib/net7.0-android30.0/Uno.Foundation.dll",
+        "lib/net7.0-android30.0/Uno.Foundation.pdb",
+        "lib/net7.0-android30.0/Uno.Foundation.xml",
+        "lib/net7.0-android30.0/Uno.UI.BindingHelper.Android.aar",
+        "lib/net7.0-android30.0/Uno.UI.BindingHelper.Android.dll",
+        "lib/net7.0-android30.0/Uno.UI.BindingHelper.Android.pdb",
+        "lib/net7.0-android30.0/Uno.UI.BindingHelper.Android.xml",
+        "lib/net7.0-android30.0/Uno.UI.Composition.dll",
+        "lib/net7.0-android30.0/Uno.UI.Composition.pdb",
+        "lib/net7.0-android30.0/Uno.UI.Composition.xml",
+        "lib/net7.0-android30.0/Uno.UI.Dispatching.dll",
+        "lib/net7.0-android30.0/Uno.UI.Dispatching.pdb",
+        "lib/net7.0-android30.0/Uno.UI.Dispatching.xml",
+        "lib/net7.0-android30.0/Uno.UI.FluentTheme.dll",
+        "lib/net7.0-android30.0/Uno.UI.FluentTheme.pdb",
+        "lib/net7.0-android30.0/Uno.UI.FluentTheme.v1.dll",
+        "lib/net7.0-android30.0/Uno.UI.FluentTheme.v1.pdb",
+        "lib/net7.0-android30.0/Uno.UI.FluentTheme.v2.dll",
+        "lib/net7.0-android30.0/Uno.UI.FluentTheme.v2.pdb",
+        "lib/net7.0-android30.0/Uno.UI.Toolkit.dll",
+        "lib/net7.0-android30.0/Uno.UI.Toolkit.pdb",
+        "lib/net7.0-android30.0/Uno.UI.dll",
+        "lib/net7.0-android30.0/Uno.UI.pdb",
+        "lib/net7.0-android30.0/Uno.UI.xml",
+        "lib/net7.0-android30.0/Uno.Xaml.dll",
+        "lib/net7.0-android30.0/Uno.Xaml.pdb",
+        "lib/net7.0-android30.0/Uno.dll",
+        "lib/net7.0-android30.0/Uno.pdb",
+        "lib/net7.0-android30.0/Uno.xml",
+        "lib/net7.0-ios/Uno.Foundation.Logging.dll",
+        "lib/net7.0-ios/Uno.Foundation.Logging.pdb",
+        "lib/net7.0-ios/Uno.Foundation.dll",
+        "lib/net7.0-ios/Uno.Foundation.pdb",
+        "lib/net7.0-ios/Uno.UI.Composition.dll",
+        "lib/net7.0-ios/Uno.UI.Composition.pdb",
+        "lib/net7.0-ios/Uno.UI.Dispatching.dll",
+        "lib/net7.0-ios/Uno.UI.Dispatching.pdb",
+        "lib/net7.0-ios/Uno.UI.FluentTheme.dll",
+        "lib/net7.0-ios/Uno.UI.FluentTheme.pdb",
+        "lib/net7.0-ios/Uno.UI.FluentTheme.v1.dll",
+        "lib/net7.0-ios/Uno.UI.FluentTheme.v1.pdb",
+        "lib/net7.0-ios/Uno.UI.FluentTheme.v2.dll",
+        "lib/net7.0-ios/Uno.UI.FluentTheme.v2.pdb",
+        "lib/net7.0-ios/Uno.UI.Toolkit.dll",
+        "lib/net7.0-ios/Uno.UI.Toolkit.pdb",
+        "lib/net7.0-ios/Uno.UI.dll",
+        "lib/net7.0-ios/Uno.UI.pdb",
+        "lib/net7.0-ios/Uno.Xaml.dll",
+        "lib/net7.0-ios/Uno.Xaml.pdb",
+        "lib/net7.0-ios/Uno.dll",
+        "lib/net7.0-ios/Uno.pdb",
+        "lib/net7.0-maccatalyst/Uno.Foundation.Logging.dll",
+        "lib/net7.0-maccatalyst/Uno.Foundation.Logging.pdb",
+        "lib/net7.0-maccatalyst/Uno.Foundation.dll",
+        "lib/net7.0-maccatalyst/Uno.Foundation.pdb",
+        "lib/net7.0-maccatalyst/Uno.UI.Composition.dll",
+        "lib/net7.0-maccatalyst/Uno.UI.Composition.pdb",
+        "lib/net7.0-maccatalyst/Uno.UI.Dispatching.dll",
+        "lib/net7.0-maccatalyst/Uno.UI.Dispatching.pdb",
+        "lib/net7.0-maccatalyst/Uno.UI.FluentTheme.dll",
+        "lib/net7.0-maccatalyst/Uno.UI.FluentTheme.pdb",
+        "lib/net7.0-maccatalyst/Uno.UI.FluentTheme.v1.dll",
+        "lib/net7.0-maccatalyst/Uno.UI.FluentTheme.v1.pdb",
+        "lib/net7.0-maccatalyst/Uno.UI.FluentTheme.v2.dll",
+        "lib/net7.0-maccatalyst/Uno.UI.FluentTheme.v2.pdb",
+        "lib/net7.0-maccatalyst/Uno.UI.Toolkit.dll",
+        "lib/net7.0-maccatalyst/Uno.UI.Toolkit.pdb",
+        "lib/net7.0-maccatalyst/Uno.UI.dll",
+        "lib/net7.0-maccatalyst/Uno.UI.pdb",
+        "lib/net7.0-maccatalyst/Uno.Xaml.dll",
+        "lib/net7.0-maccatalyst/Uno.Xaml.pdb",
+        "lib/net7.0-maccatalyst/Uno.dll",
+        "lib/net7.0-maccatalyst/Uno.pdb",
+        "lib/net7.0-macos/Uno.Foundation.Logging.dll",
+        "lib/net7.0-macos/Uno.Foundation.Logging.pdb",
+        "lib/net7.0-macos/Uno.Foundation.dll",
+        "lib/net7.0-macos/Uno.Foundation.pdb",
+        "lib/net7.0-macos/Uno.UI.Composition.dll",
+        "lib/net7.0-macos/Uno.UI.Composition.pdb",
+        "lib/net7.0-macos/Uno.UI.Dispatching.dll",
+        "lib/net7.0-macos/Uno.UI.Dispatching.pdb",
+        "lib/net7.0-macos/Uno.UI.FluentTheme.dll",
+        "lib/net7.0-macos/Uno.UI.FluentTheme.pdb",
+        "lib/net7.0-macos/Uno.UI.FluentTheme.v1.dll",
+        "lib/net7.0-macos/Uno.UI.FluentTheme.v1.pdb",
+        "lib/net7.0-macos/Uno.UI.FluentTheme.v2.dll",
+        "lib/net7.0-macos/Uno.UI.FluentTheme.v2.pdb",
+        "lib/net7.0-macos/Uno.UI.Toolkit.dll",
+        "lib/net7.0-macos/Uno.UI.Toolkit.pdb",
+        "lib/net7.0-macos/Uno.UI.dll",
+        "lib/net7.0-macos/Uno.UI.pdb",
+        "lib/net7.0-macos/Uno.Xaml.dll",
+        "lib/net7.0-macos/Uno.Xaml.pdb",
+        "lib/net7.0-macos/Uno.dll",
+        "lib/net7.0-macos/Uno.pdb",
+        "lib/net7.0/Uno.Foundation.Logging.dll",
+        "lib/net7.0/Uno.Foundation.dll",
+        "lib/net7.0/Uno.UI.Composition.dll",
+        "lib/net7.0/Uno.UI.Dispatching.dll",
+        "lib/net7.0/Uno.UI.FluentTheme.dll",
+        "lib/net7.0/Uno.UI.FluentTheme.pdb",
+        "lib/net7.0/Uno.UI.FluentTheme.v1.dll",
+        "lib/net7.0/Uno.UI.FluentTheme.v1.pdb",
+        "lib/net7.0/Uno.UI.FluentTheme.v2.dll",
+        "lib/net7.0/Uno.UI.FluentTheme.v2.pdb",
+        "lib/net7.0/Uno.UI.Toolkit.dll",
+        "lib/net7.0/Uno.UI.Toolkit.pdb",
+        "lib/net7.0/Uno.UI.dll",
+        "lib/net7.0/Uno.Xaml.dll",
+        "lib/net7.0/Uno.dll",
+        "lib/net8.0-android30.0/Uno.Foundation.Logging.dll",
+        "lib/net8.0-android30.0/Uno.Foundation.Logging.pdb",
+        "lib/net8.0-android30.0/Uno.Foundation.dll",
+        "lib/net8.0-android30.0/Uno.Foundation.pdb",
+        "lib/net8.0-android30.0/Uno.Foundation.xml",
+        "lib/net8.0-android30.0/Uno.UI.BindingHelper.Android.aar",
+        "lib/net8.0-android30.0/Uno.UI.BindingHelper.Android.dll",
+        "lib/net8.0-android30.0/Uno.UI.BindingHelper.Android.pdb",
+        "lib/net8.0-android30.0/Uno.UI.BindingHelper.Android.xml",
+        "lib/net8.0-android30.0/Uno.UI.Composition.dll",
+        "lib/net8.0-android30.0/Uno.UI.Composition.pdb",
+        "lib/net8.0-android30.0/Uno.UI.Composition.xml",
+        "lib/net8.0-android30.0/Uno.UI.Dispatching.dll",
+        "lib/net8.0-android30.0/Uno.UI.Dispatching.pdb",
+        "lib/net8.0-android30.0/Uno.UI.Dispatching.xml",
+        "lib/net8.0-android30.0/Uno.UI.FluentTheme.dll",
+        "lib/net8.0-android30.0/Uno.UI.FluentTheme.pdb",
+        "lib/net8.0-android30.0/Uno.UI.FluentTheme.v1.dll",
+        "lib/net8.0-android30.0/Uno.UI.FluentTheme.v1.pdb",
+        "lib/net8.0-android30.0/Uno.UI.FluentTheme.v2.dll",
+        "lib/net8.0-android30.0/Uno.UI.FluentTheme.v2.pdb",
+        "lib/net8.0-android30.0/Uno.UI.Toolkit.dll",
+        "lib/net8.0-android30.0/Uno.UI.Toolkit.pdb",
+        "lib/net8.0-android30.0/Uno.UI.dll",
+        "lib/net8.0-android30.0/Uno.UI.pdb",
+        "lib/net8.0-android30.0/Uno.UI.xml",
+        "lib/net8.0-android30.0/Uno.Xaml.dll",
+        "lib/net8.0-android30.0/Uno.Xaml.pdb",
+        "lib/net8.0-android30.0/Uno.dll",
+        "lib/net8.0-android30.0/Uno.pdb",
+        "lib/net8.0-android30.0/Uno.xml",
+        "lib/net8.0-ios/Uno.Foundation.Logging.dll",
+        "lib/net8.0-ios/Uno.Foundation.Logging.pdb",
+        "lib/net8.0-ios/Uno.Foundation.dll",
+        "lib/net8.0-ios/Uno.Foundation.pdb",
+        "lib/net8.0-ios/Uno.UI.Composition.dll",
+        "lib/net8.0-ios/Uno.UI.Composition.pdb",
+        "lib/net8.0-ios/Uno.UI.Dispatching.dll",
+        "lib/net8.0-ios/Uno.UI.Dispatching.pdb",
+        "lib/net8.0-ios/Uno.UI.FluentTheme.dll",
+        "lib/net8.0-ios/Uno.UI.FluentTheme.pdb",
+        "lib/net8.0-ios/Uno.UI.FluentTheme.v1.dll",
+        "lib/net8.0-ios/Uno.UI.FluentTheme.v1.pdb",
+        "lib/net8.0-ios/Uno.UI.FluentTheme.v2.dll",
+        "lib/net8.0-ios/Uno.UI.FluentTheme.v2.pdb",
+        "lib/net8.0-ios/Uno.UI.Toolkit.dll",
+        "lib/net8.0-ios/Uno.UI.Toolkit.pdb",
+        "lib/net8.0-ios/Uno.UI.dll",
+        "lib/net8.0-ios/Uno.UI.pdb",
+        "lib/net8.0-ios/Uno.Xaml.dll",
+        "lib/net8.0-ios/Uno.Xaml.pdb",
+        "lib/net8.0-ios/Uno.dll",
+        "lib/net8.0-ios/Uno.pdb",
+        "lib/net8.0-maccatalyst/Uno.Foundation.Logging.dll",
+        "lib/net8.0-maccatalyst/Uno.Foundation.Logging.pdb",
+        "lib/net8.0-maccatalyst/Uno.Foundation.dll",
+        "lib/net8.0-maccatalyst/Uno.Foundation.pdb",
+        "lib/net8.0-maccatalyst/Uno.UI.Composition.dll",
+        "lib/net8.0-maccatalyst/Uno.UI.Composition.pdb",
+        "lib/net8.0-maccatalyst/Uno.UI.Dispatching.dll",
+        "lib/net8.0-maccatalyst/Uno.UI.Dispatching.pdb",
+        "lib/net8.0-maccatalyst/Uno.UI.FluentTheme.dll",
+        "lib/net8.0-maccatalyst/Uno.UI.FluentTheme.pdb",
+        "lib/net8.0-maccatalyst/Uno.UI.FluentTheme.v1.dll",
+        "lib/net8.0-maccatalyst/Uno.UI.FluentTheme.v1.pdb",
+        "lib/net8.0-maccatalyst/Uno.UI.FluentTheme.v2.dll",
+        "lib/net8.0-maccatalyst/Uno.UI.FluentTheme.v2.pdb",
+        "lib/net8.0-maccatalyst/Uno.UI.Toolkit.dll",
+        "lib/net8.0-maccatalyst/Uno.UI.Toolkit.pdb",
+        "lib/net8.0-maccatalyst/Uno.UI.dll",
+        "lib/net8.0-maccatalyst/Uno.UI.pdb",
+        "lib/net8.0-maccatalyst/Uno.Xaml.dll",
+        "lib/net8.0-maccatalyst/Uno.Xaml.pdb",
+        "lib/net8.0-maccatalyst/Uno.dll",
+        "lib/net8.0-maccatalyst/Uno.pdb",
+        "lib/net8.0-macos/Uno.Foundation.Logging.dll",
+        "lib/net8.0-macos/Uno.Foundation.Logging.pdb",
+        "lib/net8.0-macos/Uno.Foundation.dll",
+        "lib/net8.0-macos/Uno.Foundation.pdb",
+        "lib/net8.0-macos/Uno.UI.Composition.dll",
+        "lib/net8.0-macos/Uno.UI.Composition.pdb",
+        "lib/net8.0-macos/Uno.UI.Dispatching.dll",
+        "lib/net8.0-macos/Uno.UI.Dispatching.pdb",
+        "lib/net8.0-macos/Uno.UI.FluentTheme.dll",
+        "lib/net8.0-macos/Uno.UI.FluentTheme.pdb",
+        "lib/net8.0-macos/Uno.UI.FluentTheme.v1.dll",
+        "lib/net8.0-macos/Uno.UI.FluentTheme.v1.pdb",
+        "lib/net8.0-macos/Uno.UI.FluentTheme.v2.dll",
+        "lib/net8.0-macos/Uno.UI.FluentTheme.v2.pdb",
+        "lib/net8.0-macos/Uno.UI.Toolkit.dll",
+        "lib/net8.0-macos/Uno.UI.Toolkit.pdb",
+        "lib/net8.0-macos/Uno.UI.dll",
+        "lib/net8.0-macos/Uno.UI.pdb",
+        "lib/net8.0-macos/Uno.Xaml.dll",
+        "lib/net8.0-macos/Uno.Xaml.pdb",
+        "lib/net8.0-macos/Uno.dll",
+        "lib/net8.0-macos/Uno.pdb",
+        "lib/net8.0/Uno.Foundation.Logging.dll",
+        "lib/net8.0/Uno.Foundation.dll",
+        "lib/net8.0/Uno.UI.Composition.dll",
+        "lib/net8.0/Uno.UI.Dispatching.dll",
+        "lib/net8.0/Uno.UI.FluentTheme.dll",
+        "lib/net8.0/Uno.UI.FluentTheme.pdb",
+        "lib/net8.0/Uno.UI.FluentTheme.v1.dll",
+        "lib/net8.0/Uno.UI.FluentTheme.v1.pdb",
+        "lib/net8.0/Uno.UI.FluentTheme.v2.dll",
+        "lib/net8.0/Uno.UI.FluentTheme.v2.pdb",
+        "lib/net8.0/Uno.UI.Toolkit.dll",
+        "lib/net8.0/Uno.UI.Toolkit.pdb",
+        "lib/net8.0/Uno.UI.dll",
+        "lib/net8.0/Uno.Xaml.dll",
+        "lib/net8.0/Uno.dll",
+        "tools/linker/Mono.Cecil.Pdb.dll",
+        "tools/linker/Mono.Cecil.dll",
+        "tools/linker/System.Json.dll",
+        "tools/linker/System.Reflection.MetadataLoadContext.dll",
+        "tools/linker/illink.deps.json",
+        "tools/linker/illink.dll",
+        "tools/linker/illink.exe",
+        "tools/linker/illink.runtimeconfig.dev.json",
+        "tools/linker/illink.runtimeconfig.json",
+        "uno-runtime/net7.0/skia/Uno.Foundation.Logging.dll",
+        "uno-runtime/net7.0/skia/Uno.Foundation.Logging.pdb",
+        "uno-runtime/net7.0/skia/Uno.Foundation.dll",
+        "uno-runtime/net7.0/skia/Uno.Foundation.pdb",
+        "uno-runtime/net7.0/skia/Uno.UI.Composition.dll",
+        "uno-runtime/net7.0/skia/Uno.UI.Composition.pdb",
+        "uno-runtime/net7.0/skia/Uno.UI.Dispatching.dll",
+        "uno-runtime/net7.0/skia/Uno.UI.Dispatching.pdb",
+        "uno-runtime/net7.0/skia/Uno.UI.FluentTheme.dll",
+        "uno-runtime/net7.0/skia/Uno.UI.FluentTheme.pdb",
+        "uno-runtime/net7.0/skia/Uno.UI.FluentTheme.v1.dll",
+        "uno-runtime/net7.0/skia/Uno.UI.FluentTheme.v1.pdb",
+        "uno-runtime/net7.0/skia/Uno.UI.FluentTheme.v2.dll",
+        "uno-runtime/net7.0/skia/Uno.UI.FluentTheme.v2.pdb",
+        "uno-runtime/net7.0/skia/Uno.UI.Toolkit.dll",
+        "uno-runtime/net7.0/skia/Uno.UI.Toolkit.pdb",
+        "uno-runtime/net7.0/skia/Uno.UI.dll",
+        "uno-runtime/net7.0/skia/Uno.UI.pdb",
+        "uno-runtime/net7.0/skia/Uno.Xaml.dll",
+        "uno-runtime/net7.0/skia/Uno.Xaml.pdb",
+        "uno-runtime/net7.0/skia/Uno.dll",
+        "uno-runtime/net7.0/skia/Uno.pdb",
+        "uno-runtime/net7.0/webassembly/Uno.Foundation.Logging.dll",
+        "uno-runtime/net7.0/webassembly/Uno.Foundation.Logging.pdb",
+        "uno-runtime/net7.0/webassembly/Uno.Foundation.dll",
+        "uno-runtime/net7.0/webassembly/Uno.Foundation.pdb",
+        "uno-runtime/net7.0/webassembly/Uno.UI.Composition.dll",
+        "uno-runtime/net7.0/webassembly/Uno.UI.Composition.pdb",
+        "uno-runtime/net7.0/webassembly/Uno.UI.Dispatching.dll",
+        "uno-runtime/net7.0/webassembly/Uno.UI.Dispatching.pdb",
+        "uno-runtime/net7.0/webassembly/Uno.UI.FluentTheme.dll",
+        "uno-runtime/net7.0/webassembly/Uno.UI.FluentTheme.pdb",
+        "uno-runtime/net7.0/webassembly/Uno.UI.FluentTheme.v1.dll",
+        "uno-runtime/net7.0/webassembly/Uno.UI.FluentTheme.v1.pdb",
+        "uno-runtime/net7.0/webassembly/Uno.UI.FluentTheme.v2.dll",
+        "uno-runtime/net7.0/webassembly/Uno.UI.FluentTheme.v2.pdb",
+        "uno-runtime/net7.0/webassembly/Uno.UI.Toolkit.dll",
+        "uno-runtime/net7.0/webassembly/Uno.UI.Toolkit.pdb",
+        "uno-runtime/net7.0/webassembly/Uno.UI.dll",
+        "uno-runtime/net7.0/webassembly/Uno.UI.pdb",
+        "uno-runtime/net7.0/webassembly/Uno.Xaml.dll",
+        "uno-runtime/net7.0/webassembly/Uno.Xaml.pdb",
+        "uno-runtime/net7.0/webassembly/Uno.dll",
+        "uno-runtime/net7.0/webassembly/Uno.pdb",
+        "uno-runtime/net8.0/skia/Uno.Foundation.Logging.dll",
+        "uno-runtime/net8.0/skia/Uno.Foundation.Logging.pdb",
+        "uno-runtime/net8.0/skia/Uno.Foundation.dll",
+        "uno-runtime/net8.0/skia/Uno.Foundation.pdb",
+        "uno-runtime/net8.0/skia/Uno.UI.Composition.dll",
+        "uno-runtime/net8.0/skia/Uno.UI.Composition.pdb",
+        "uno-runtime/net8.0/skia/Uno.UI.Dispatching.dll",
+        "uno-runtime/net8.0/skia/Uno.UI.Dispatching.pdb",
+        "uno-runtime/net8.0/skia/Uno.UI.FluentTheme.dll",
+        "uno-runtime/net8.0/skia/Uno.UI.FluentTheme.pdb",
+        "uno-runtime/net8.0/skia/Uno.UI.FluentTheme.v1.dll",
+        "uno-runtime/net8.0/skia/Uno.UI.FluentTheme.v1.pdb",
+        "uno-runtime/net8.0/skia/Uno.UI.FluentTheme.v2.dll",
+        "uno-runtime/net8.0/skia/Uno.UI.FluentTheme.v2.pdb",
+        "uno-runtime/net8.0/skia/Uno.UI.Toolkit.dll",
+        "uno-runtime/net8.0/skia/Uno.UI.Toolkit.pdb",
+        "uno-runtime/net8.0/skia/Uno.UI.dll",
+        "uno-runtime/net8.0/skia/Uno.UI.pdb",
+        "uno-runtime/net8.0/skia/Uno.Xaml.dll",
+        "uno-runtime/net8.0/skia/Uno.Xaml.pdb",
+        "uno-runtime/net8.0/skia/Uno.dll",
+        "uno-runtime/net8.0/skia/Uno.pdb",
+        "uno-runtime/net8.0/webassembly/Uno.Foundation.Logging.dll",
+        "uno-runtime/net8.0/webassembly/Uno.Foundation.Logging.pdb",
+        "uno-runtime/net8.0/webassembly/Uno.Foundation.dll",
+        "uno-runtime/net8.0/webassembly/Uno.Foundation.pdb",
+        "uno-runtime/net8.0/webassembly/Uno.UI.Composition.dll",
+        "uno-runtime/net8.0/webassembly/Uno.UI.Composition.pdb",
+        "uno-runtime/net8.0/webassembly/Uno.UI.Dispatching.dll",
+        "uno-runtime/net8.0/webassembly/Uno.UI.Dispatching.pdb",
+        "uno-runtime/net8.0/webassembly/Uno.UI.FluentTheme.dll",
+        "uno-runtime/net8.0/webassembly/Uno.UI.FluentTheme.pdb",
+        "uno-runtime/net8.0/webassembly/Uno.UI.FluentTheme.v1.dll",
+        "uno-runtime/net8.0/webassembly/Uno.UI.FluentTheme.v1.pdb",
+        "uno-runtime/net8.0/webassembly/Uno.UI.FluentTheme.v2.dll",
+        "uno-runtime/net8.0/webassembly/Uno.UI.FluentTheme.v2.pdb",
+        "uno-runtime/net8.0/webassembly/Uno.UI.Toolkit.dll",
+        "uno-runtime/net8.0/webassembly/Uno.UI.Toolkit.pdb",
+        "uno-runtime/net8.0/webassembly/Uno.UI.dll",
+        "uno-runtime/net8.0/webassembly/Uno.UI.pdb",
+        "uno-runtime/net8.0/webassembly/Uno.Xaml.dll",
+        "uno-runtime/net8.0/webassembly/Uno.Xaml.pdb",
+        "uno-runtime/net8.0/webassembly/Uno.dll",
+        "uno-runtime/net8.0/webassembly/Uno.pdb",
+        "uno.png",
+        "uno.ui.5.1.87.nupkg.sha512",
+        "uno.ui.nuspec"
+      ]
+    },
     "ZXing.Net/0.16.9": {
       "sha512": "7WaVMHklpT3Ye2ragqRIwlFRsb6kOk63BOGADV0fan3ulVfGLUYkDi5yNUsZS/7FVNkWbtHAlDLmu4WnHGfqvQ==",
       "type": "package",
@@ -11909,6 +12404,7 @@
       "Microsoft.Extensions.Options >= 8.0.2",
       "Microsoft.NETCore.UniversalWindowsPlatform >= 6.2.14",
       "System.Drawing.Common >= 8.0.3",
+      "Uno.UI >= 5.1.87",
       "ZXing.Net >= 0.16.9"
     ]
   },
@@ -11968,6 +12464,10 @@
           "System.Drawing.Common": {
             "target": "Package",
             "version": "[8.0.3, )"
+          },
+          "Uno.UI": {
+            "target": "Package",
+            "version": "[5.1.87, )"
           },
           "ZXing.Net": {
             "target": "Package",

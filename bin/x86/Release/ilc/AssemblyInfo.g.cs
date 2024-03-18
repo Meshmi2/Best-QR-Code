@@ -15,6 +15,7 @@ using global::Windows.Foundation.Collections;
 [assembly: global::System.Runtime.CompilerServices.IgnoresAccessChecksTo("zxing")]
 [assembly: global::System.Runtime.CompilerServices.IgnoresAccessChecksTo("System.Security.Cryptography.X509Certificates")]
 [assembly: global::System.Runtime.CompilerServices.IgnoresAccessChecksTo("System.Text.Encoding.CodePages")]
+[assembly: global::System.Runtime.CompilerServices.IgnoresAccessChecksTo("System.IO.FileSystem")]
 [assembly: global::System.Runtime.CompilerServices.IgnoresAccessChecksTo("System.Security.Cryptography.Encoding")]
 [assembly: global::System.Runtime.CompilerServices.IgnoresAccessChecksTo("System.Security.Cryptography.Cng")]
 [assembly: global::System.Runtime.CompilerServices.IgnoresAccessChecksTo("System.Security.Cryptography.Algorithms")]

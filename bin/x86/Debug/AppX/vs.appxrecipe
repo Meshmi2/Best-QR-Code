@@ -8,8 +8,8 @@
     <TargetOsDescription>Windows 10.0</TargetOsDescription>
     <SolutionConfiguration>Debug|x86</SolutionConfiguration>
     <PackageArchitecture>x86</PackageArchitecture>
-    <PackageIdentityName>fab143c1-fbed-48a1-a61a-0de8d92f57b1</PackageIdentityName>
-    <PackageIdentityPublisher>CN=meshm</PackageIdentityPublisher>
+    <PackageIdentityName>e4789580-042b-402e-8d92-c8048cb3d187</PackageIdentityName>
+    <PackageIdentityPublisher>CN=434F3950-3A83-4454-A77B-78F5EAC6A536</PackageIdentityPublisher>
     <IntermediateOutputPath>C:\Users\meshm\source\repos\App18\App18\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
@@ -19,24 +19,24 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
     <LayoutDir>C:\Users\meshm\source\repos\App18\App18\bin\x86\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>2BF147827AF874C06CBADB018B53D101A13A1FDD083CDE0AB69F5402E285978F</RegisteredManifestChecksum>
-    <RegisteredPackageMoniker>fab143c1-fbed-48a1-a61a-0de8d92f57b1_1.0.0.0_x86__d3xtmjakykrrr</RegisteredPackageMoniker>
-    <RegisteredUserModeAppID>fab143c1-fbed-48a1-a61a-0de8d92f57b1_d3xtmjakykrrr!App</RegisteredUserModeAppID>
-    <RegisteredPackageID>fab143c1-fbed-48a1-a61a-0de8d92f57b1</RegisteredPackageID>
-    <RegisteredPackagePublisher>CN=meshm</RegisteredPackagePublisher>
-    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <RegisteredManifestChecksum>9808064DB2FACC2F2F44EA555C1D38ED6DA44E613A30E2ADE513D50E19FA6347</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>1407meshmi.BestQR-Code_2.2.0.0_x86__q1z231dwxdgj8</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>1407meshmi.BestQR-Code_q1z231dwxdgj8!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>1407meshmi.BestQR-Code</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=434F3950-3A83-4454-A77B-78F5EAC6A536</RegisteredPackagePublisher>
+    <RegisteredVersion>2.2.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
     <AppXManifest Include="C:\Users\meshm\source\repos\App18\App18\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-03-16T14:59:38.349</Modified>
+      <Modified>2024-03-18T07:55:02.345</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\meshm\source\repos\App18\App18\bin\x86\Debug\App18.exe">
       <PackagePath>entrypoint\App18.exe</PackagePath>
-      <Modified>2024-03-16T14:59:37.203</Modified>
+      <Modified>2024-03-18T07:55:01.331</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\meshm\.nuget\packages\microsoft.bcl.asyncinterfaces\8.0.0\lib\netstandard2.0\Microsoft.Bcl.AsyncInterfaces.dll">
       <PackagePath>Microsoft.Bcl.AsyncInterfaces.dll</PackagePath>
@@ -66,6 +66,10 @@
       <PackagePath>System.Runtime.CompilerServices.Unsafe.dll</PackagePath>
       <Modified>2021-10-22T23:40:46.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\meshm\.nuget\packages\uno.ui\5.1.87\lib\UAP\Uno.UI.Toolkit.dll">
+      <PackagePath>Uno.UI.Toolkit.dll</PackagePath>
+      <Modified>2024-03-06T01:20:20.000</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\meshm\.nuget\packages\zxing.net\0.16.9\lib\uap10\zxing.dll">
       <PackagePath>zxing.dll</PackagePath>
       <Modified>2023-02-22T20:37:26.000</Modified>
@@ -74,9 +78,234 @@
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
       <Modified>2024-02-21T19:52:32.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\meshm\source\repos\App18\App18\Properties\Default.rd.xml">
-      <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2024-03-16T12:45:14.738</Modified>
+    <AppxPackagedFile Include="C:\Users\meshm\.nuget\packages\uno.ui\5.1.87\lib\UAP\Uno.UI.Toolkit\Uno.UI.Toolkit.xr.xml">
+      <PackagePath>Uno.UI.Toolkit\Uno.UI.Toolkit.xr.xml</PackagePath>
+      <Modified>2024-03-05T23:50:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\meshm\source\repos\App18\App18\Assets\LargeTile.scale-100.png">
+      <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-03-16T15:01:34.223</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\meshm\source\repos\App18\App18\Assets\LargeTile.scale-125.png">
+      <PackagePath>Assets\LargeTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-03-16T15:01:34.238</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\meshm\source\repos\App18\App18\Assets\LargeTile.scale-150.png">
+      <PackagePath>Assets\LargeTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-03-16T15:01:34.254</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\meshm\source\repos\App18\App18\Assets\LargeTile.scale-200.png">
+      <PackagePath>Assets\LargeTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-03-16T15:01:34.301</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\meshm\source\repos\App18\App18\Assets\LargeTile.scale-400.png">
+      <PackagePath>Assets\LargeTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-03-16T15:01:34.411</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\meshm\source\repos\App18\App18\Assets\SmallTile.scale-100.png">
+      <PackagePath>Assets\SmallTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-03-16T15:01:33.971</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\meshm\source\repos\App18\App18\Assets\SmallTile.scale-125.png">
+      <PackagePath>Assets\SmallTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-03-16T15:01:33.987</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\meshm\source\repos\App18\App18\Assets\SmallTile.scale-150.png">
+      <PackagePath>Assets\SmallTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-03-16T15:01:33.987</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\meshm\source\repos\App18\App18\Assets\SmallTile.scale-200.png">
+      <PackagePath>Assets\SmallTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-03-16T15:01:34.003</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\meshm\source\repos\App18\App18\Assets\SmallTile.scale-400.png">
+      <PackagePath>Assets\SmallTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-03-16T15:01:34.003</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\meshm\source\repos\App18\App18\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-03-16T15:01:34.583</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\meshm\source\repos\App18\App18\Assets\SplashScreen.scale-125.png">
+      <PackagePath>Assets\SplashScreen.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-03-16T15:01:34.599</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\meshm\source\repos\App18\App18\Assets\SplashScreen.scale-150.png">
+      <PackagePath>Assets\SplashScreen.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-03-16T15:01:34.646</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\meshm\source\repos\App18\App18\Assets\SplashScreen.scale-400.png">
+      <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-03-16T15:01:34.916</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\meshm\source\repos\App18\App18\Assets\Square150x150Logo.scale-100.png">
+      <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-03-16T15:01:34.018</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\meshm\source\repos\App18\App18\Assets\Square150x150Logo.scale-125.png">
+      <PackagePath>Assets\Square150x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-03-16T15:01:34.034</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\meshm\source\repos\App18\App18\Assets\Square150x150Logo.scale-150.png">
+      <PackagePath>Assets\Square150x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-03-16T15:01:34.034</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\meshm\source\repos\App18\App18\Assets\Square150x150Logo.scale-400.png">
+      <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-03-16T15:01:34.081</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\meshm\source\repos\App18\App18\Assets\Square44x44Logo.altform-lightunplated_targetsize-16.png">
+      <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-03-16T15:01:34.520</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\meshm\source\repos\App18\App18\Assets\Square44x44Logo.altform-lightunplated_targetsize-24.png">
+      <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-03-16T15:01:34.536</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\meshm\source\repos\App18\App18\Assets\Square44x44Logo.altform-lightunplated_targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-03-16T15:01:34.552</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\meshm\source\repos\App18\App18\Assets\Square44x44Logo.altform-lightunplated_targetsize-32.png">
+      <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-03-16T15:01:34.536</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\meshm\source\repos\App18\App18\Assets\Square44x44Logo.altform-lightunplated_targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-03-16T15:01:34.536</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\meshm\source\repos\App18\App18\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-03-16T15:01:34.489</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\meshm\source\repos\App18\App18\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-03-16T15:01:34.520</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\meshm\source\repos\App18\App18\Assets\Square44x44Logo.altform-unplated_targetsize-32.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-03-16T15:01:34.505</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\meshm\source\repos\App18\App18\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-03-16T15:01:34.505</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\meshm\source\repos\App18\App18\Assets\Square44x44Logo.scale-100.png">
+      <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-03-16T15:01:34.426</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\meshm\source\repos\App18\App18\Assets\Square44x44Logo.scale-125.png">
+      <PackagePath>Assets\Square44x44Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-03-16T15:01:34.426</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\meshm\source\repos\App18\App18\Assets\Square44x44Logo.scale-150.png">
+      <PackagePath>Assets\Square44x44Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-03-16T15:01:34.426</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\meshm\source\repos\App18\App18\Assets\Square44x44Logo.scale-400.png">
+      <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-03-16T15:01:34.442</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\meshm\source\repos\App18\App18\Assets\Square44x44Logo.targetsize-16.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-03-16T15:01:34.458</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\meshm\source\repos\App18\App18\Assets\Square44x44Logo.targetsize-24.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-03-16T15:01:34.458</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\meshm\source\repos\App18\App18\Assets\Square44x44Logo.targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-03-16T15:01:34.489</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\meshm\source\repos\App18\App18\Assets\Square44x44Logo.targetsize-32.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-03-16T15:01:34.458</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\meshm\source\repos\App18\App18\Assets\Square44x44Logo.targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-03-16T15:01:34.473</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\meshm\source\repos\App18\App18\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-03-16T15:01:34.932</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\meshm\source\repos\App18\App18\Assets\StoreLogo.scale-125.png">
+      <PackagePath>Assets\StoreLogo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-03-16T15:01:34.932</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\meshm\source\repos\App18\App18\Assets\StoreLogo.scale-150.png">
+      <PackagePath>Assets\StoreLogo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-03-16T15:01:34.932</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\meshm\source\repos\App18\App18\Assets\StoreLogo.scale-200.png">
+      <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-03-16T15:01:34.947</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\meshm\source\repos\App18\App18\Assets\StoreLogo.scale-400.png">
+      <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-03-16T15:01:34.963</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\meshm\source\repos\App18\App18\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-03-16T15:01:34.097</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\meshm\source\repos\App18\App18\Assets\Wide310x150Logo.scale-125.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-03-16T15:01:34.113</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\meshm\source\repos\App18\App18\Assets\Wide310x150Logo.scale-150.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-03-16T15:01:34.129</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\meshm\source\repos\App18\App18\Assets\Wide310x150Logo.scale-400.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-03-16T15:01:34.207</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\meshm\source\repos\App18\App18\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
@@ -85,32 +314,31 @@
     <AppxPackagedFile Include="C:\Users\meshm\source\repos\App18\App18\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-03-16T12:26:21.037</Modified>
+      <Modified>2024-03-16T15:01:34.693</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\meshm\source\repos\App18\App18\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-03-16T12:26:21.037</Modified>
+      <Modified>2024-03-16T15:01:34.050</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\meshm\source\repos\App18\App18\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-03-16T12:26:21.037</Modified>
+      <Modified>2024-03-16T15:01:34.442</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\meshm\source\repos\App18\App18\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-03-16T12:26:21.037</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\meshm\source\repos\App18\App18\Assets\StoreLogo.png">
-      <PackagePath>Assets\StoreLogo.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-03-16T12:26:21.037</Modified>
+      <Modified>2024-03-16T15:01:34.489</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\meshm\source\repos\App18\App18\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-03-16T12:26:21.037</Modified>
+      <Modified>2024-03-16T15:01:34.144</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\meshm\source\repos\App18\App18\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
+      <Modified>2024-03-16T12:45:14.738</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\meshm\source\repos\App18\App18\bin\x86\Debug\App18.xr.xml">
       <PackagePath>App18.xr.xml</PackagePath>
@@ -118,11 +346,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\meshm\source\repos\App18\App18\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2024-03-16T14:59:37.155</Modified>
+      <Modified>2024-03-18T07:55:01.235</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\meshm\source\repos\App18\App18\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2024-03-16T14:59:37.155</Modified>
+      <Modified>2024-03-18T07:55:01.235</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.22621.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -130,11 +358,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\meshm\source\repos\App18\App18\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-03-16T14:59:37.956</Modified>
+      <Modified>2024-03-18T06:50:39.302</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\meshm\source\repos\App18\App18\bin\x86\Debug\Core\App18.exe">
       <PackagePath>App18.exe</PackagePath>
-      <Modified>2024-03-16T14:59:38.349</Modified>
+      <Modified>2024-03-18T07:55:02.327</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

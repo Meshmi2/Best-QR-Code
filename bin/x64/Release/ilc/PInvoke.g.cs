@@ -470,29 +470,6 @@ namespace __Interop
 			return unsafe___value != 0;
 		}
 
-		// Signature, CertDuplicateCertificateContextWithKeyContainerDeletion, [fwd] [return] [EETypeRva:0x000434A4] Internal_Cryptography_Pal_Native_SafeCertContextHandleWithKeyContainerDeletion__System_Security_Cryptography_X509Certificates____w64 int, [fwd] [in] [EETypeRva:0x000419B0] System_IntPtr____w64 int, 
-		[global::System.Runtime.InteropServices.McgPInvokeMarshalStub("System.Security.Cryptography.X509Certificates, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" +
-			"", "Interop+crypt32", "CertDuplicateCertificateContextWithKeyContainerDeletion")]
-		public static global::Internal.Cryptography.Pal.Native.SafeCertContextHandleWithKeyContainerDeletion__System_Security_Cryptography_X509Certificates CertDuplicateCertificateContextWithKeyContainerDeletion(global::System.IntPtr pCertContext)
-		{
-			// Setup
-			global::Internal.Cryptography.Pal.Native.SafeCertContextHandleWithKeyContainerDeletion__System_Security_Cryptography_X509Certificates __value;
-			global::System.IntPtr unsafe___value;
-			// Marshalling
-			__value = new global::Internal.Cryptography.Pal.Native.SafeCertContextHandleWithKeyContainerDeletion__System_Security_Cryptography_X509Certificates();
-			global::System.Runtime.InteropServices.McgMarshal.ClearLastWin32Error();
-			// Call to native method
-			unsafe___value = global::__Interop.crypt32_dll_PInvokes.CertDuplicateCertificateContextWithKeyContainerDeletion(pCertContext);
-			global::System.Diagnostics.DebugAnnotations.PreviousCallContainsDebuggerStepInCode();
-			global::System.Runtime.InteropServices.McgMarshal.SaveLastWin32Error();
-			global::System.Runtime.InteropServices.McgMarshal.InitializeHandle(
-								__value, 
-								unsafe___value
-							);
-			// Return
-			return __value;
-		}
-
 		// Signature, CryptQueryObject, [fwd] [return] [EETypeRva:0x00040848] bool__System.Boolean, [fwd] [in] [EETypeRva:0x00042D60] Internal_Cryptography_Pal_Native_CertQueryObjectType__System_Security_Cryptography_X509Certificates__CertQueryObjectType__System_Security_Cryptography_X509Certificates, [fwd] [in] [EETypeRva:0x000419B0] void___ptrvoid *, [fwd] [in] [EETypeRva:0x00042D60] Internal_Cryptography_Pal_Native_ExpectedContentTypeFlags__System_Security_Cryptography_X509Certificates__ExpectedContentTypeFlags__System_Security_Cryptography_X509Certificates, [fwd] [in] [EETypeRva:0x00042D60] Internal_Cryptography_Pal_Native_ExpectedFormatTypeFlags__System_Security_Cryptography_X509Certificates__ExpectedFormatTypeFlags__System_Security_Cryptography_X509Certificates, [fwd] [in] [EETypeRva:0x000419B0] int__int, [fwd] [out] [managedbyref] [nativebyref] [EETypeRva:0x00042D60] Internal_Cryptography_Pal_Native_CertEncodingType__System_Security_Cryptography_X509Certificates__CertEncodingType__System_Security_Cryptography_X509Certificates, [fwd] [out] [managedbyref] [nativebyref] [EETypeRva:0x00042D60] Internal_Cryptography_Pal_Native_ContentType__System_Security_Cryptography_X509Certificates__ContentType__System_Security_Cryptography_X509Certificates, [fwd] [out] [managedbyref] [nativebyref] [EETypeRva:0x00042D60] Internal_Cryptography_Pal_Native_FormatType__System_Security_Cryptography_X509Certificates__FormatType__System_Security_Cryptography_X509Certificates, [fwd] [out] [managedbyref] [nativebyref] [EETypeRva:0x000434A4] Internal_Cryptography_Pal_Native_SafeCertStoreHandle__System_Security_Cryptography_X509Certificates____w64 int, [fwd] [out] [managedbyref] [nativebyref] [EETypeRva:0x000434A4] Internal_Cryptography_Pal_Native_SafeCryptMsgHandle__System_Security_Cryptography_X509Certificates____w64 int, [fwd] [out] [managedbyref] [nativebyref] [EETypeRva:0x000434A4] Internal_Cryptography_Pal_Native_SafeCertContextHandle__System_Security_Cryptography_X509Certificates____w64 int, 
 		[global::System.Runtime.InteropServices.McgPInvokeMarshalStub("System.Security.Cryptography.X509Certificates, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" +
 			"", "Interop+crypt32", "CryptQueryObject")]
@@ -557,6 +534,29 @@ namespace __Interop
 					}
 			// Return
 			return unsafe___value != 0;
+		}
+
+		// Signature, CertDuplicateCertificateContextWithKeyContainerDeletion, [fwd] [return] [EETypeRva:0x000434A4] Internal_Cryptography_Pal_Native_SafeCertContextHandleWithKeyContainerDeletion__System_Security_Cryptography_X509Certificates____w64 int, [fwd] [in] [EETypeRva:0x000419B0] System_IntPtr____w64 int, 
+		[global::System.Runtime.InteropServices.McgPInvokeMarshalStub("System.Security.Cryptography.X509Certificates, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" +
+			"", "Interop+crypt32", "CertDuplicateCertificateContextWithKeyContainerDeletion")]
+		public static global::Internal.Cryptography.Pal.Native.SafeCertContextHandleWithKeyContainerDeletion__System_Security_Cryptography_X509Certificates CertDuplicateCertificateContextWithKeyContainerDeletion(global::System.IntPtr pCertContext)
+		{
+			// Setup
+			global::Internal.Cryptography.Pal.Native.SafeCertContextHandleWithKeyContainerDeletion__System_Security_Cryptography_X509Certificates __value;
+			global::System.IntPtr unsafe___value;
+			// Marshalling
+			__value = new global::Internal.Cryptography.Pal.Native.SafeCertContextHandleWithKeyContainerDeletion__System_Security_Cryptography_X509Certificates();
+			global::System.Runtime.InteropServices.McgMarshal.ClearLastWin32Error();
+			// Call to native method
+			unsafe___value = global::__Interop.crypt32_dll_PInvokes.CertDuplicateCertificateContextWithKeyContainerDeletion(pCertContext);
+			global::System.Diagnostics.DebugAnnotations.PreviousCallContainsDebuggerStepInCode();
+			global::System.Runtime.InteropServices.McgMarshal.SaveLastWin32Error();
+			global::System.Runtime.InteropServices.McgMarshal.InitializeHandle(
+								__value, 
+								unsafe___value
+							);
+			// Return
+			return __value;
 		}
 
 		// Signature, CertFreeCertificateContext, [fwd] [return] [EETypeRva:0x00040848] bool__System.Boolean, [fwd] [in] [EETypeRva:0x000419B0] System_IntPtr____w64 int, 
@@ -941,6 +941,120 @@ namespace __Interop
 			global::System.Diagnostics.DebugAnnotations.PreviousCallContainsDebuggerStepInCode();
 			// Return
 			return unsafe___value;
+		}
+
+		// Signature, SetThreadErrorMode, [fwd] [return] [EETypeRva:0x00040848] bool__System.Boolean, [fwd] [in] [EETypeRva:0x000419B0] uint__unsigned int, [fwd] [out] [managedbyref] [nativebyref] [EETypeRva:0x000419B0] uint__unsigned int, 
+		[global::System.Runtime.InteropServices.McgPInvokeMarshalStub("System.IO.FileSystem, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a", "Interop+Kernel32", "SetThreadErrorMode")]
+		public static bool SetThreadErrorMode(
+					uint dwNewMode, 
+					out uint lpOldMode)
+		{
+			// Setup
+			int unsafe___value;
+			// Marshalling
+			fixed (uint* pinned_lpOldMode = &(lpOldMode))
+			{
+				global::System.Runtime.InteropServices.McgMarshal.ClearLastWin32Error();
+				// Call to native method
+				unsafe___value = global::__Interop.kernel32_dll_PInvokes.SetThreadErrorMode(
+									dwNewMode, 
+									pinned_lpOldMode
+								);
+				global::System.Diagnostics.DebugAnnotations.PreviousCallContainsDebuggerStepInCode();
+				global::System.Runtime.InteropServices.McgMarshal.SaveLastWin32Error();
+			}
+			// Return
+			return unsafe___value != 0;
+		}
+
+		// Signature, GetFileAttributesExPrivate, [fwd] [return] [EETypeRva:0x00040848] bool__System.Boolean, [fwd] [in] [EETypeRva:0x00041B44] string__wchar_t *, [fwd] [in] [EETypeRva:0x00042D60] __Interop_Kernel32_GET_FILEEX_INFO_LEVELS__System_IO_FileSystem__Interop_Kernel32_GET_FILEEX_INFO_LEVELS__System_IO_FileSystem, [fwd] [in] [out] [managedbyref] [nativebyref] [EETypeRva:0x0004314C] __Interop_Kernel32_WIN32_FILE_ATTRIBUTE_DATA__System_IO_FileSystem____Interop_Kernel32_WIN32_FILE_ATTRIBUTE_DATA__System_IO_FileSystem, 
+		[global::System.Runtime.InteropServices.McgPInvokeMarshalStub("System.IO.FileSystem, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a", "Interop+Kernel32", "GetFileAttributesExPrivate")]
+		public static bool GetFileAttributesExPrivate(
+					string name, 
+					global::_.Interop_Kernel32_GET_FILEEX_INFO_LEVELS__System_IO_FileSystem fileInfoLevel, 
+					ref global::_.Interop_Kernel32_WIN32_FILE_ATTRIBUTE_DATA__System_IO_FileSystem lpFileInformation)
+		{
+			// Setup
+			ushort* unsafe_name = default(ushort*);
+			int unsafe___value;
+			// Marshalling
+			fixed (char* pinned_name = name)
+			{
+				unsafe_name = (ushort*)pinned_name;
+				fixed (global::_.Interop_Kernel32_WIN32_FILE_ATTRIBUTE_DATA__System_IO_FileSystem* pinned_lpFileInformation = &(lpFileInformation))
+				{
+					global::System.Runtime.InteropServices.McgMarshal.ClearLastWin32Error();
+					// Call to native method
+					unsafe___value = global::__Interop.kernel32_dll_PInvokes.GetFileAttributesExPrivate(
+										unsafe_name, 
+										fileInfoLevel, 
+										pinned_lpFileInformation
+									);
+					global::System.Diagnostics.DebugAnnotations.PreviousCallContainsDebuggerStepInCode();
+					global::System.Runtime.InteropServices.McgMarshal.SaveLastWin32Error();
+				}
+			}
+			// Return
+			return unsafe___value != 0;
+		}
+
+		// Signature, FindFirstFileExPrivate, [fwd] [return] [EETypeRva:0x000434A4] Microsoft_Win32_SafeHandles_SafeFindHandle__System_IO_FileSystem____w64 int, [fwd] [in] [EETypeRva:0x00041B44] string__wchar_t *, [fwd] [in] [EETypeRva:0x00042D60] __Interop_Kernel32_FINDEX_INFO_LEVELS__System_IO_FileSystem__Interop_Kernel32_FINDEX_INFO_LEVELS__System_IO_FileSystem, [fwd] [in] [out] [managedbyref] [nativebyref] [EETypeRva:0x0004314C] __Interop_Kernel32_WIN32_FIND_DATA__System_IO_FileSystem____Interop_Kernel32_WIN32_FIND_DATA__System_IO_FileSystem, [fwd] [in] [EETypeRva:0x00042D60] __Interop_Kernel32_FINDEX_SEARCH_OPS__System_IO_FileSystem__Interop_Kernel32_FINDEX_SEARCH_OPS__System_IO_FileSystem, [fwd] [in] [EETypeRva:0x000419B0] System_IntPtr____w64 int, [fwd] [in] [EETypeRva:0x000419B0] int__int, 
+		[global::System.Runtime.InteropServices.McgPInvokeMarshalStub("System.IO.FileSystem, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a", "Interop+Kernel32", "FindFirstFileExPrivate")]
+		public static global::Microsoft.Win32.SafeHandles.SafeFindHandle__System_IO_FileSystem FindFirstFileExPrivate(
+					string lpFileName, 
+					global::_.Interop_Kernel32_FINDEX_INFO_LEVELS__System_IO_FileSystem fInfoLevelId, 
+					ref global::_.Interop_Kernel32_WIN32_FIND_DATA__System_IO_FileSystem lpFindFileData, 
+					global::_.Interop_Kernel32_FINDEX_SEARCH_OPS__System_IO_FileSystem fSearchOp, 
+					global::System.IntPtr lpSearchFilter, 
+					int dwAdditionalFlags)
+		{
+			// Setup
+			ushort* unsafe_lpFileName = default(ushort*);
+			global::Microsoft.Win32.SafeHandles.SafeFindHandle__System_IO_FileSystem __value;
+			global::System.IntPtr unsafe___value;
+			// Marshalling
+			fixed (char* pinned_lpFileName = lpFileName)
+			{
+				unsafe_lpFileName = (ushort*)pinned_lpFileName;
+				fixed (global::_.Interop_Kernel32_WIN32_FIND_DATA__System_IO_FileSystem* pinned_lpFindFileData = &(lpFindFileData))
+				{
+					__value = new global::Microsoft.Win32.SafeHandles.SafeFindHandle__System_IO_FileSystem();
+					global::System.Runtime.InteropServices.McgMarshal.ClearLastWin32Error();
+					// Call to native method
+					unsafe___value = global::__Interop.kernel32_dll_PInvokes.FindFirstFileExPrivate(
+										unsafe_lpFileName, 
+										fInfoLevelId, 
+										pinned_lpFindFileData, 
+										fSearchOp, 
+										lpSearchFilter, 
+										dwAdditionalFlags
+									);
+					global::System.Diagnostics.DebugAnnotations.PreviousCallContainsDebuggerStepInCode();
+					global::System.Runtime.InteropServices.McgMarshal.SaveLastWin32Error();
+					global::System.Runtime.InteropServices.McgMarshal.InitializeHandle(
+										__value, 
+										unsafe___value
+									);
+				}
+			}
+			// Return
+			return __value;
+		}
+
+		// Signature, FindClose, [fwd] [return] [EETypeRva:0x00040848] bool__System.Boolean, [fwd] [in] [EETypeRva:0x000419B0] System_IntPtr____w64 int, 
+		[global::System.Runtime.InteropServices.McgPInvokeMarshalStub("System.IO.FileSystem, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a", "Interop+Kernel32", "FindClose")]
+		public static bool FindClose(global::System.IntPtr hFindFile)
+		{
+			// Setup
+			int unsafe___value;
+			// Marshalling
+			global::System.Runtime.InteropServices.McgMarshal.ClearLastWin32Error();
+			// Call to native method
+			unsafe___value = global::__Interop.kernel32_dll_PInvokes.FindClose(hFindFile);
+			global::System.Diagnostics.DebugAnnotations.PreviousCallContainsDebuggerStepInCode();
+			global::System.Runtime.InteropServices.McgMarshal.SaveLastWin32Error();
+			// Return
+			return unsafe___value != 0;
 		}
 
 		// Signature, FormatMessage, [fwd] [return] [EETypeRva:0x000419B0] int__int, [fwd] [in] [EETypeRva:0x000419B0] int__int, [fwd] [in] [EETypeRva:0x000419B0] System_IntPtr____w64 int, [fwd] [in] [EETypeRva:0x000419B0] uint__unsigned int, [fwd] [in] [EETypeRva:0x000419B0] int__int, [fwd] [in] [EETypeRva:0x000419B0] char___ptrwchar_t *, [fwd] [in] [EETypeRva:0x000419B0] int__int, [fwd] [in] [EETypeRva:0x00042A40] rg_System_IntPtr____w64 int *, 
@@ -1593,9 +1707,6 @@ namespace __Interop
 					global::Internal_Cryptography_Pal_Native.CRYPTOAPI_BLOB__System_Security_Cryptography_X509Certificates* pvData, 
 					int* pcbData);
 
-		[global::System.Runtime.InteropServices.DllImport("crypt32.dll", EntryPoint="CertDuplicateCertificateContext", CallingConvention=global::System.Runtime.InteropServices.CallingConvention.Winapi)]
-		public extern static global::System.IntPtr CertDuplicateCertificateContextWithKeyContainerDeletion(global::System.IntPtr pCertContext);
-
 		[global::System.Runtime.InteropServices.DllImport("crypt32.dll", CallingConvention=global::System.Runtime.InteropServices.CallingConvention.Winapi)]
 		public extern static int CryptQueryObject(
 					global::Internal_Cryptography_Pal_Native.CertQueryObjectType__System_Security_Cryptography_X509Certificates dwObjectType, 
@@ -1609,6 +1720,9 @@ namespace __Interop
 					global::System.IntPtr* phCertStore, 
 					global::System.IntPtr* phMsg, 
 					global::System.IntPtr* ppvContext);
+
+		[global::System.Runtime.InteropServices.DllImport("crypt32.dll", EntryPoint="CertDuplicateCertificateContext", CallingConvention=global::System.Runtime.InteropServices.CallingConvention.Winapi)]
+		public extern static global::System.IntPtr CertDuplicateCertificateContextWithKeyContainerDeletion(global::System.IntPtr pCertContext);
 
 		[global::System.Runtime.InteropServices.DllImport("crypt32.dll", CallingConvention=global::System.Runtime.InteropServices.CallingConvention.Winapi)]
 		public extern static int CertFreeCertificateContext(global::System.IntPtr pCertContext);
@@ -1687,6 +1801,29 @@ namespace __Interop
 					uint CodePage, 
 					uint dwFlags, 
 					global::_.Interop_Kernel32_CPINFOEXW__System_Text_Encoding_CodePages* lpCPInfoEx);
+
+		[global::System.Runtime.InteropServices.DllImport("kernel32.dll", CallingConvention=global::System.Runtime.InteropServices.CallingConvention.Winapi)]
+		public extern static int SetThreadErrorMode(
+					uint dwNewMode, 
+					uint* lpOldMode);
+
+		[global::System.Runtime.InteropServices.DllImport("kernel32.dll", EntryPoint="GetFileAttributesExW", CallingConvention=global::System.Runtime.InteropServices.CallingConvention.Winapi)]
+		public extern static int GetFileAttributesExPrivate(
+					ushort* name, 
+					global::_.Interop_Kernel32_GET_FILEEX_INFO_LEVELS__System_IO_FileSystem fileInfoLevel, 
+					global::_.Interop_Kernel32_WIN32_FILE_ATTRIBUTE_DATA__System_IO_FileSystem* lpFileInformation);
+
+		[global::System.Runtime.InteropServices.DllImport("kernel32.dll", EntryPoint="FindFirstFileExW", CallingConvention=global::System.Runtime.InteropServices.CallingConvention.Winapi)]
+		public extern static global::System.IntPtr FindFirstFileExPrivate(
+					ushort* lpFileName, 
+					global::_.Interop_Kernel32_FINDEX_INFO_LEVELS__System_IO_FileSystem fInfoLevelId, 
+					global::_.Interop_Kernel32_WIN32_FIND_DATA__System_IO_FileSystem* lpFindFileData, 
+					global::_.Interop_Kernel32_FINDEX_SEARCH_OPS__System_IO_FileSystem fSearchOp, 
+					global::System.IntPtr lpSearchFilter, 
+					int dwAdditionalFlags);
+
+		[global::System.Runtime.InteropServices.DllImport("kernel32.dll", CallingConvention=global::System.Runtime.InteropServices.CallingConvention.Winapi)]
+		public extern static int FindClose(global::System.IntPtr hFindFile);
 
 		[global::System.Runtime.InteropServices.DllImport("kernel32.dll", EntryPoint="FormatMessageW", CallingConvention=global::System.Runtime.InteropServices.CallingConvention.Winapi)]
 		public extern static int FormatMessage(

@@ -56,6 +56,10 @@
               "target": "Package",
               "version": "[8.0.3, )"
             },
+            "Uno.UI": {
+              "target": "Package",
+              "version": "[5.1.87, )"
+            },
             "ZXing.Net": {
               "target": "Package",
               "version": "[0.16.9, )"

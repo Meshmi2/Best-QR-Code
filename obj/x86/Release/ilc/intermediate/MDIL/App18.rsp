@@ -64,6 +64,7 @@
 /in "C:\Users\meshm\source\repos\App18\App18\obj\x86\Release\ilc\intermediate\ILTransformed\System.Text.Encoding.CodePages.ildll"
 /in "C:\Users\meshm\source\repos\App18\App18\obj\x86\Release\ilc\intermediate\ILTransformed\System.Threading.Overlapped.ildll"
 /in "C:\Users\meshm\source\repos\App18\App18\obj\x86\Release\ilc\intermediate\ILTransformed\System.Threading.Thread.ildll"
+/in "C:\Users\meshm\source\repos\App18\App18\obj\x86\Release\ilc\intermediate\ILTransformed\Uno.UI.Toolkit.ildll"
 /in "C:\Users\meshm\source\repos\App18\App18\obj\x86\Release\ilc\intermediate\ILTransformed\zxing.ildll"
 /out "C:\Users\meshm\source\repos\App18\App18\obj\x86\Release\ilc\intermediate\MDIL\App18.mdilexe"
 /iltoc "C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.2.8-rel-31116-00\tools\SharedLibrary\ret\ILToc\System.Collections.iltoc*SharedLibrary"

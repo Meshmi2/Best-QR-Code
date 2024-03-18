@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "BhmKxM6p79JQEKD0uRSflbe5rq/c4Oo4dBgY+8mTxdap6Yx5uEZMszw+z0Ym9AqdOmVm5NFcca+P0CkZbkN67g==",
+  "dgSpecHash": "cGBft2cpuent4s/iGvQiSMz2Wsysjn5HqMZDjKl4WKVfin3QRagvarsC7f83OWYgl5sw9zjunk40FO/b0b7fCg==",
   "success": true,
   "projectFilePath": "C:\\Users\\meshm\\source\\repos\\App18\\App18\\App18.csproj",
   "expectedPackageFiles": [
@@ -36,6 +36,7 @@
     "C:\\Users\\meshm\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
     "C:\\Users\\meshm\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\meshm\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "C:\\Users\\meshm\\.nuget\\packages\\uno.ui\\5.1.87\\uno.ui.5.1.87.nupkg.sha512",
     "C:\\Users\\meshm\\.nuget\\packages\\zxing.net\\0.16.9\\zxing.net.0.16.9.nupkg.sha512"
   ],
   "logs": []

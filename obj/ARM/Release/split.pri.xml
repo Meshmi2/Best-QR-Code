@@ -116,6 +116,20 @@
 					</Candidate>
 				</NamedResource>
 			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Uno.UI.Toolkit">
+				<NamedResource name="Uno.UI.Toolkit.xr.xml" uri="ms-resource://1407meshmi.BestQR-Code/Files/Uno.UI.Toolkit/Uno.UI.Toolkit.xr.xml">
+					<Candidate type="Path">
+						<Value>Uno.UI.Toolkit\Uno.UI.Toolkit.xr.xml</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Themes">
+					<NamedResource name="Generic.xbf" uri="ms-resource://1407meshmi.BestQR-Code/Files/Uno.UI.Toolkit/Themes/Generic.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
 			<ResourceMapSubtree name="WinMetadata">
 				<NamedResource name="Windows.winmd" uri="ms-resource://1407meshmi.BestQR-Code/Files/WinMetadata/Windows.winmd">
 					<Candidate type="Path">

@@ -5,6 +5,7 @@
 [Files]
 "C:\Users\meshm\source\repos\App18\App18\obj\x64\Release\split.pri"			"resources.pri"
 "C:\Users\meshm\source\repos\App18\App18\obj\x64\Release\PackageLayout\WinMetadata\Windows.winmd"			"WinMetadata\Windows.winmd"
+"C:\Users\meshm\source\repos\App18\App18\obj\x64\Release\PackageLayout\Uno.UI.Toolkit\Uno.UI.Toolkit.xr.xml"			"Uno.UI.Toolkit\Uno.UI.Toolkit.xr.xml"
 "C:\Users\meshm\source\repos\App18\App18\obj\x64\Release\PackageLayout\Properties\Default.rd.xml"			"Properties\Default.rd.xml"
 "C:\Users\meshm\source\repos\App18\App18\obj\x64\Release\PackageLayout\Assets\Wide310x150Logo.scale-200.png"			"Assets\Wide310x150Logo.scale-200.png"
 "C:\Users\meshm\source\repos\App18\App18\obj\x64\Release\PackageLayout\Assets\StoreLogo.scale-200.png"			"Assets\StoreLogo.scale-200.png"
